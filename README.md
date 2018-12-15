@@ -1,6 +1,6 @@
 # Jupyter notebooks
 
-This repository contains some jupyter notebooks from my data science projects.
+This repository contains some jupyter notebooks from my data science projects. The LaTeX rendering is nicer if you download and view the notebooks locally.
 
 * `Edward_notebook_public.ipynb` discusses Bayesian neural networks and is related to a [blog post](https://qvik.com/news/data-science-bayesian-neural-networks-edward/).
 
